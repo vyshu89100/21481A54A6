@@ -1,0 +1,18 @@
+{
+    "products": [
+      { "id": 1, "name": "Product A", "price": 199.99, "rating": 4.5, "source": "AMZ", "category": "phone" },
+      { "id": 2, "name": "Product B", "price": 299.99, "rating": 4.8, "source": "FLP", "category": "computer" },
+      { "id": 3, "name": "Product C", "price": 499.99, "rating": 4.2, "source": "SNP", "category": "laptop" },
+      { "id": 4, "name": "Product D", "price": 399.99, "rating": 4.0, "source": "MYN", "category": "pc" },
+      { "id": 5, "name": "Product E", "price": 599.99, "rating": 4.7, "source": "AZO", "category": "remote" }
+      { "id": 6, "name": "Product F", "price": 199.99, "rating": 4.5, "source": "AMZ", "category": "Speaker" },
+      { "id": 7, "name": "Product G", "price": 299.99, "rating": 4.8, "source": "FLP", "category": "Headset" },
+      { "id": 8, "name": "Product H", "price": 499.99, "rating": 4.2, "source": "SNP", "category": "Earphone" },
+      { "id": 9, "name": "Product I", "price": 399.99, "rating": 4.0, "source": "MYN", "category": "Tablet" },
+      { "id": 10, "name": "Product j", "price": 599.99, "rating": 4.7, "source": "AZO", "category": "Charger" },
+      { "id": 11, "name": "Product K", "price": 499.99, "rating": 4.2, "source": "SNP", "category": "Bluetooth" },
+      { "id": 12, "name": "Product L", "price": 399.99, "rating": 4.0, "source": "MYN", "category": "Keypad" },
+      { "id": 13, "name": "Product M", "price": 599.99, "rating": 4.7, "source": "AZO", "category": "Pendrive" }
+    ]
+  }
+  
